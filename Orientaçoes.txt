@@ -1,0 +1,64 @@
+Trabalho final de web mining
+
+•
+28 de mai.
+10 pontos
+A aprovação na disciplina está condicionada ao desenvolvimento de um projeto
+A nota final do curso será a nota do projeto
+Projeto: qualquer aplicação de web mining (tema livre)
+O projeto deverá envolver as seguintes etapas
+
+     - Coleta dos dados
+
+    - Pré-processamento
+
+    - Modelagem (classificação, cluster, recuperação de informação, extração de informação)
+
+    - Avaliação
+
+O trabalho poderá ser feito em grupo e deverá ser apresentado na última aula do curso, inicialmente prevista para o dia  20/08
+O aluno poderá utilizar a ferramenta/tecnologia que desejar    
+    - Python
+    - R
+   - Rapid Miner
+Sugestões de bases de dados
+   - Twitter
+    - Notícias
+    - Web sites
+    - Conteúdo relacionado ao seu TCC
+    - Kaggle (https://www.kaggle.com/datasets)
+Bases do Kaggle:
+Tweets – Democratas x republicanos
+   - https://www.kaggle.com/kapastor/democratvsrepublicantweets
+Opiniões sobre hotéis
+    - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe#Hotel_Reviews.csv
+Opiniões de e-commerce de roupas
+    - https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+Stackoverflow
+    - https://www.kaggle.com/stackoverflow/stackoverflow
+Boatos de whatsapp
+    - https://www.kaggle.com/rogeriochaves/boatos-de-whatsapp-boatosorg
+Análise de sentimento em tweets
+    - https://www.kaggle.com/crowdflower/twitter-airline-sentiment#Tweets.csv
+    - https://www.kaggle.com/crowdflower/twitter-airline-sentiment#Tweets.csv
+    - https://www.kaggle.com/welkin10/airline-sentiment
+
+Busca de outras bases
+- https://toolbox.google.com/datasetsearch
+- https://pt.wikipedia.org/wiki/Dados_abertos
+-  https://www.kaggle.com/datasets
+-  http://dados.gov.br/
+-  http://www.portaltransparencia.gov.br/download-de-dados
+- http://dados.prefeitura.sp.gov.br/pt_PT/ 
+- https://www.governodigital.gov.br/transformacao/cidadania/dados-abertos/portal-brasileiro-de-dados-abertos
+- http://www.cgu.gov.br/dados-abertos
+- http://www.mma.gov.br/dados-abertos.html
+- http://datasus.saude.gov.br/informacoes-de-saude/tabnet
+- https://dadosabertos.camara.leg.br/
+- http://idg.receita.fazenda.gov.br/dados
+- https://dados.educacao.sp.gov.br/
+- http://www.cvm.gov.br/menu/acesso_informacao/dadosabertos/dadosabertos.html
+- http://mds.gov.br/acesso-a-informacao/transparencia-e-dados-abertos
+- http://www.anp.gov.br/dados-abertos-anp
+- http://www.emtu.sp.gov.br/emtu/dados-abertos/dados-abertos-principal/acesse-os-dados-abertos.fss
+- http://www.anac.gov.br/dadosabertos
